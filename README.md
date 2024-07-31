@@ -9,7 +9,7 @@ The Hotel Finder Website is a web application developed using the MERN stack (Mo
    - Users can browse a list of hotels, each with detailed information such as location, amenities, pricing, and ratings.
 
 2. **User Authentication:**
-   - Users can create an account, log in, and log out securely using JWT (JSON Web Tokens) for authentication.
+   - Users can create an account, log in.
 
 
 
