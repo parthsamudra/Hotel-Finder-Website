@@ -23,8 +23,11 @@ The Hotel Finder Website is a web application developed using the MERN stack (Mo
 
 1. Open the project in Visual Studio Code
 2. Run Npm install
-3. Run nodemon app.js
-4. Open Browser and enter http://localhost:8080/listings
+3. Run cd init
+4. Run nodemon index.js
+5. This Step initializes the database
+6. Run nodemon app.js
+7. Open Browser and enter http://localhost:8080/listings
 
 ## Screenshots
 
